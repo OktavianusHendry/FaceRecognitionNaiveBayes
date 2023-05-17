@@ -1,0 +1,11 @@
+Dalam pengenalan wajah menggunakan metode Naive Bayes, hasil akhir yang ingin dicapai adalah kemampuan untuk mengklasifikasikan wajah-wajah baru ke dalam kelas individu yang tepat berdasarkan fitur-fitur wajah yang ada dalam dataset pelatihan. Dengan kata lain, tujuannya adalah untuk mengidentifikasi dan mengenali individu yang diwakili oleh wajah yang diberikan.
+
+Hasil akhir yang diinginkan dapat berupa:
+    Klasifikasi Wajah: Setelah melalui proses pelatihan menggunakan metode Naive Bayes, hasil akhir yang diharapkan adalah kemampuan untuk mengklasifikasikan wajah-wajah baru ke dalam kelas individu yang telah ditentukan sebelumnya. Setiap wajah yang diberikan akan diklasifikasikan ke dalam kelas individu yang paling cocok berdasarkan fitur-fitur wajah yang ada dalam model Naive Bayes.
+
+Tingkat Kepercayaan atau Skor: Metode Naive Bayes juga dapat memberikan tingkat kepercayaan atau skor yang mengindikasikan seberapa yakin model dalam klasifikasinya. Skor ini dapat memberikan informasi tentang tingkat keyakinan dalam pengenalan wajah yang dilakukan. Misalnya, semakin tinggi skor, semakin tinggi tingkat keyakinan dalam pengenalan individu.
+
+    Toleransi terhadap Variasi: Metode Naive Bayes dapat memberikan toleransi terhadap variasi dalam wajah individu, seperti perubahan pencahayaan, pose, atau ekspresi wajah yang berbeda. Ini berarti model dapat mengenali individu yang sama dengan wajah yang sedikit berbeda dalam kondisi yang beragam.
+
+
+Dalam pengenalan wajah menggunakan metode Naive Bayes, tujuan akhir adalah membangun model yang dapat mengklasifikasikan wajah-wajah baru secara akurat ke dalam kelas individu yang tepat berdasarkan fitur-fitur wajah yang ada. Hasil akhir ini dapat digunakan dalam berbagai aplikasi, seperti sistem keamanan berbasis wajah, pengenalan individu dalam pengaturan kehadiran, atau aplikasi yang memerlukan identifikasi individu.

@@ -1,0 +1,19 @@
+Metode Haar Cascade Classifier dan metode Naive Bayes adalah dua pendekatan yang berbeda dalam pengenalan wajah. Berikut adalah perbedaan utama antara keduanya:
+
+Pendekatan Dasar:
+    Haar Cascade Classifier: Metode ini menggunakan algoritma deteksi objek yang berbasis fitur visual. Ini berarti classifier dilatih untuk mengenali pola-pola visual spesifik yang ada pada wajah, seperti tepi, garis, dan tekstur tertentu.
+Naive Bayes: Metode ini menggunakan teori probabilitas dan asumsi independensi fitur untuk melakukan klasifikasi. Dalam konteks pengenalan wajah, Naive Bayes digunakan untuk mengklasifikasikan wajah baru berdasarkan fitur-fitur wajah yang ada dalam dataset latihan.
+
+Deteksi vs. Klasifikasi:
+    Haar Cascade Classifier: Metode ini digunakan untuk deteksi wajah di dalam gambar. Tujuan utamanya adalah mengidentifikasi lokasi wajah dalam gambar dan membatasi area di mana pengenalan wajah berikutnya akan dilakukan.
+Naive Bayes: Metode ini digunakan untuk klasifikasi wajah. Setelah wajah terdeteksi dan daerah wajah diambil, metode Naive Bayes digunakan untuk mengklasifikasikan wajah tersebut ke dalam kelas individu yang tepat berdasarkan fitur-fitur wajah yang ada.
+
+Skalabilitas:
+    Haar Cascade Classifier: Metode ini cenderung memiliki kinerja yang cepat dan skalabilitas yang baik dalam deteksi wajah di berbagai skala dan ukuran gambar.
+Naive Bayes: Metode ini cenderung lebih sederhana dan cepat dalam pelatihan dan pengujian, terutama pada dataset yang relatif kecil. Namun, saat dihadapkan pada dataset yang besar dan kompleks, performa Naive Bayes dapat menurun dan teknik yang lebih canggih seperti deep learning menjadi lebih umum digunakan.
+
+Dependensi Fitur:
+    Haar Cascade Classifier: Metode ini menggunakan fitur-fitur visual spesifik yang telah ditentukan secara manual atau melalui pembelajaran untuk mendeteksi wajah. Fitur-fitur ini harus dirancang atau dipilih secara cerdas untuk mendapatkan hasil yang baik.
+Naive Bayes: Metode ini mengasumsikan independensi antara fitur-fitur wajah. Ini berarti fitur-fitur wajah yang digunakan dalam Naive Bayes harus saling independen, yang mungkin tidak selalu terpenuhi dalam kenyataan.
+
+Dalam kesimpulannya, metode Haar Cascade Classifier digunakan untuk deteksi wajah dan membatasi daerah wajah dalam gambar, sedangkan metode Naive Bayes digunakan untuk klasifikasi wajah ke dalam kelas individu berdasarkan fitur-fitur wajah. Kedua metode ini memiliki kelebihan dan keterbatasan mereka sendiri, dan pilihan tergantung pada kebutuhan dan konteks spesifik proyek pengenalan wajah yang dilakukan.
