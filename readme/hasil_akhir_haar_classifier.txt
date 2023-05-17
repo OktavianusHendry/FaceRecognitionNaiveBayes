@@ -1,0 +1,13 @@
+Dalam kasus dunia nyata, hasil akhir dari pengenalan wajah menggunakan metode Haar Cascade Classifier dapat bervariasi tergantung pada konteks dan implementasinya. Berikut adalah beberapa contoh hasil akhir yang mungkin dicapai dengan penggunaan metode Haar Cascade Classifier dalam pengenalan wajah:
+
+Deteksi Wajah: Metode Haar Cascade Classifier dapat digunakan untuk mendeteksi wajah dalam gambar atau video dengan tingkat keberhasilan yang tinggi. Hasil akhir yang diinginkan adalah kemampuan untuk mengidentifikasi dan membatasi area di mana wajah ada dalam gambar atau video.
+
+Segmentasi Wajah: Setelah wajah terdeteksi, Haar Cascade Classifier dapat membantu dalam memisahkan atau mengekstraksi bagian wajah dari latar belakang atau objek lainnya dalam gambar. Hasil akhir yang diinginkan adalah gambar yang hanya berisi wajah tanpa informasi yang tidak relevan.
+
+Pengenalan Individu: Metode Haar Cascade Classifier dapat digunakan sebagai tahap awal dalam pengenalan individu. Setelah wajah terdeteksi dan dipisahkan, langkah selanjutnya adalah menggunakan metode lain, seperti metode klasifikasi atau deep learning, untuk mengenali individu yang diwakili oleh wajah yang ditemukan. Hasil akhir yang diinginkan adalah kemampuan untuk mengenali individu secara akurat berdasarkan wajah mereka.
+
+Integrasi dengan Sistem Keamanan: Haar Cascade Classifier dapat digunakan dalam sistem keamanan berbasis wajah untuk mendeteksi dan mengenali individu yang diizinkan atau tidak diizinkan. Dalam hal ini, hasil akhir yang diinginkan adalah kemampuan untuk membedakan individu dan mengambil tindakan yang sesuai berdasarkan hasil deteksi dan pengenalan wajah.
+
+Pemrosesan Real-time: Metode Haar Cascade Classifier dapat diterapkan dalam aplikasi real-time, seperti pengenalan wajah dalam video streaming atau rekaman CCTV. Hasil akhir yang diinginkan adalah kemampuan untuk mendeteksi dan mengenali wajah secara efisien dan dengan waktu respons yang cepat.
+
+Penting untuk dicatat bahwa meskipun Haar Cascade Classifier dapat memberikan hasil yang baik dalam deteksi wajah, kemampuan pengenalan individu yang lebih akurat dan lanjutan mungkin memerlukan penggunaan metode atau teknik lain yang lebih canggih, seperti metode klasifikasi yang lebih kompleks atau algoritma deep learning.
