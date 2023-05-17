@@ -1,0 +1,17 @@
+Dalam penerapan pengenalan wajah, fungsi Naive Bayes adalah sebagai algoritma klasifikasi yang digunakan untuk mengklasifikasikan wajah-wajah baru ke dalam kelas individu yang tepat berdasarkan fitur-fitur wajah yang ada.
+
+Fungsi Naive Bayes dalam pengenalan wajah melibatkan langkah-langkah berikut:
+
+Ekstraksi Fitur Wajah: Pertama, fitur-fitur wajah yang relevan diekstraksi dari gambar wajah dalam dataset. Fitur-fitur ini dapat mencakup representasi numerik seperti vektor fitur, histogram, atau deskriptor lain yang menggambarkan karakteristik unik dari wajah.
+
+Pelatihan Model Naive Bayes: Selanjutnya, model Naive Bayes dilatih dengan menggunakan dataset yang telah diberi label. Setiap sampel dalam dataset dilengkapi dengan label kelas individu yang sesuai. Model Naive Bayes akan mempelajari distribusi probabilitas fitur-fitur wajah dalam setiap kelas individu.
+
+Pengujian dan Klasifikasi: Setelah model Naive Bayes dilatih, wajah-wajah baru yang akan dikenali dapat diberikan sebagai input untuk model. Model akan menggunakan probabilitas dari setiap fitur dalam Naive Bayes untuk mengklasifikasikan wajah baru ke dalam kelas individu yang paling mungkin berdasarkan fitur-fitur tersebut. Probabilitas kelas yang dihasilkan oleh Naive Bayes dapat digunakan sebagai skor kepercayaan atau tingkat keyakinan dalam pengenalan wajah.
+
+Keuntungan menggunakan Naive Bayes dalam pengenalan wajah adalah sebagai berikut:
+
+Kecepatan dan Efisiensi: Metode Naive Bayes cenderung memiliki waktu komputasi yang lebih cepat dan lebih efisien dibandingkan dengan beberapa metode pengenalan wajah lainnya, seperti algoritma berbasis Deep Learning yang kompleks.
+
+Keandalan pada Dataset yang Terbatas: Naive Bayes relatif baik dalam menangani dataset yang terbatas atau dengan jumlah sampel yang lebih kecil. Ini membuatnya berguna dalam situasi di mana dataset wajah yang tersedia terbatas.
+
+Meskipun demikian, penting untuk dicatat bahwa Naive Bayes memiliki asumsi naif tentang independensi fitur wajah yang mungkin tidak selalu berlaku dalam pengenalan wajah yang kompleks. Dalam tugas pengenalan wajah yang lebih kompleks, teknik berbasis Deep Learning seperti Convolutional Neural Networks (CNN) lebih umum digunakan karena kemampuannya untuk mengekstraksi fitur hierarkis yang lebih kompleks dan meningkatkan performa pengenalan wajah secara signifikan.

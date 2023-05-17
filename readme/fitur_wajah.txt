@@ -1,0 +1,17 @@
+Fitur wajah merujuk pada karakteristik atau bagian-bagian spesifik dari wajah seseorang yang digunakan untuk menggambarkan identitas dan membedakan satu individu dari yang lain. Fitur-fitur ini mencakup berbagai aspek dari wajah, seperti bentuk, tekstur, dan proporsi. Pengenalan wajah berdasarkan fitur-fitur ini memungkinkan sistem untuk mengidentifikasi individu berdasarkan perbedaan-perbedaan unik dalam wajah mereka.
+
+Berikut adalah beberapa contoh fitur wajah yang sering digunakan dalam pengenalan wajah:
+
+Bentuk Wajah: Fitur ini mengacu pada bentuk umum dari wajah seseorang, seperti lebar wajah, tinggi dahi, posisi mata, hidung, dan mulut. Bentuk wajah dapat memberikan informasi yang penting dalam mengidentifikasi individu.
+
+Mata: Fitur ini meliputi bentuk mata, ukuran mata, posisi mata terkait dengan wajah, panjang bulu mata, serta warna dan tekstur iris. Mata sering kali merupakan fitur wajah yang sangat penting dalam pengenalan wajah.
+
+Hidung: Fitur ini mencakup bentuk hidung, lebar hidung, tinggi hidung, posisi hidung terkait dengan wajah, serta karakteristik hidung lainnya yang dapat membantu membedakan individu.
+
+Mulut: Fitur ini meliputi bentuk dan ukuran bibir, posisi mulut, dan karakteristik lainnya yang dapat memberikan tanda khas pada wajah individu.
+
+Telinga: Fitur ini melibatkan bentuk, ukuran, dan posisi telinga dalam konteks wajah. Meskipun tidak selalu digunakan sebagai fitur utama dalam pengenalan wajah, telinga dapat memberikan informasi tambahan yang berguna.
+
+Tekstur Kulit: Fitur ini mencakup tekstur kulit wajah seperti garis-garis halus, pori-pori, bintik-bintik, atau tanda khas lainnya yang dapat membantu membedakan individu.
+
+Selain fitur-fitur tersebut, ada juga teknik pengenalan wajah modern yang menggunakan metode-metode seperti ekstraksi fitur dengan algoritma Deep Learning (misalnya, Convolutional Neural Networks) yang mampu secara otomatis mengekstraksi fitur-fitur penting dari wajah tanpa perlu menentukan fitur-fitur tersebut secara manual.
